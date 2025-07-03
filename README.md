@@ -1,6 +1,6 @@
 # Hey! I'm `ThatCosmicStorm` :wave:
 
-I'm an **amateur** programmer working on projects that amplify *human performance*—not machine efficiency.
+I'm an **amateur** programmer aiming to amplify *human performance*—not machine efficiency.
 Currently, I only use `Python` :sweat_smile:
 
 - Featured Projects:
