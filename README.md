@@ -1,13 +1,8 @@
 # Hey! I'm `ThatCosmicStorm` 👋
 
-I'm an **amateur** programmer hoping to study computer science soon.
-Currently only "specialized" in `Python` 😅
-- Main interests:
-  - Programming languages (PL) 🥰
-    - See [`Quartz`](https://github.com/thatcosmicstorm/quartz)
-  - App dev.
-    - See [`FlowState`](https://github.com/thatcosmicstorm/FlowState)
-- Languages I'm exploring:
-  - JavaScript
-  - Go
-  
+- I'm an amateur programmer making projects to use and learn from.
+- I have yet to turn to the dark side, e.g., Neovim, Linux, and Rust:
+  - Currently only "specialized" in `Python` 😅
+- Languages I want to explore:
+  - JS, Go, Mojo, Zig.
+- Go check out [Quartz](https://github.com/ThatCosmicStorm/Quartz)!
