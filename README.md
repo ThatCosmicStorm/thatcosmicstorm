@@ -4,5 +4,5 @@
 - I have yet to turn to the dark side, e.g., Neovim, Linux, and Rust:
   - Currently only "specialized" in `Python` 😅
 - Languages I want to explore:
-  - JS, Go, Mojo, Zig.
+  - JS, Go, Zig.
 - Go check out [Quartz](https://github.com/ThatCosmicStorm/Quartz)!
